@@ -1,4 +1,5 @@
 # CMS Dimuon Event Visualization (CERN Open Data)
+Physics | CERN Open Data | Particle Tracking | Scientific Python
 
 This project analyzes and visualizes proton–proton collision events recorded by the
 CMS detector at the Large Hadron Collider.
